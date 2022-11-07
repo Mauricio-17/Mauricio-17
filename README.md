@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mauricio Solis, i'm currently 22, and i am a self-thaugh
+- 👋 Hi, I’m Mauricio Solis, i'm currently 22, and i am a self-thaugh.
 - 👀 I’m interested in Web Development, maths applying in programming, tech platforms such as Linux, Android, also infraestructure and all of these stuff.
-- 🌱 I’m currently studying Systems Engineering.
+- 🌱 I’m currently studying Systems Engineering, taking fullstack courses and improving my English skills.
 - 💞️ I’m looking to collaborate on tech projects, starting with small ones.
 - 📫 How to reach me ...
 
