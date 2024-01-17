@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-taupe-two.vercel.app/](https://new-portfolio-taupe-two.vercel.app/)
 
-- 💬 Ask me about **Java, Spring Boot, Linux, backend development, Data Science and Machine learning**
+- 💬 Ask me about **Java, Spring Boot, Linux, fullstack development, Data Science and Machine learning**
 
 - 📫 How to reach me **mauricio_s7@outlook.com - mau.solis@gmail.com**
 
