@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/maurici79297912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/maurici79297912" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mauricio-solis-cipriano-s7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mauricio-solis-cipriano-s7" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mauricio.soliscipriano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mauricio.soliscipriano/" height="30" width="40" /></a>
+<a href="https://twitter.com/maurici79297912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maurici79297912" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mauricio-solis-cipriano-s7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio-solis-cipriano-s7" height="30" width="40" /></a>
+<a href="https://fb.com/mauricio.soliscipriano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mauricio.soliscipriano" height="30" width="40" /></a>
 <a href="https://discord.gg/.mauricio7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".mauricio7" height="30" width="40" /></a>
 </p>
 
