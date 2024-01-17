@@ -1,13 +1,8 @@
-<div style="text-align: center;">
-  <h1>Hi 👋, I'm Mauricio Solis</h1>
+<h1 align="">Hi there geeks 👋, I'm Mauricio Solis</h1>
 
-  <h3>A passionate computer lover from Peru who keeps up to date with industry technologies.</h3>
+<img alt="Coding" width="600" height="300px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
 
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="margin: auto;" >
-
-  <!-- No need to clear float in this case -->
-</div>
-
+<h3 align="center">A passionate computer lover from Peru who always keeps learning and applying</h3>
 
 - 🌱 I’m currently learning **Data Science and doing my undergraduate project for college.**
 
@@ -19,7 +14,7 @@
 
 - 📫 How to reach me **mauricio_s7@outlook.com - mau.solis@gmail.com**
 
-- ⚡ Fun fact **I started loving code when I was in the First cycle of the college**
+- ⚡ Fun fact **I started loving code when I was in the First cycle in college**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
