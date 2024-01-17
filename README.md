@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **Data Science and doing my undergraduate project for college.**
 
-- 👯 I’m looking to collaborate on **Fullstack and Data science projects,**
+- 👯 I’m looking to collaborate on **Fullstack and Data science projects**
 
-- 💬 Ask me about **Java, Spring Boot, Linux, Data Science and Machine learning**
+- 👨‍💻 All of my projects are available at [https://new-portfolio-taupe-two.vercel.app/](https://new-portfolio-taupe-two.vercel.app/)
 
-- 📫 How to reach me **mauricio_s7@outlook.com**
+- 💬 Ask me about **Java, Spring Boot, Linux, backend development, Data Science and Machine learning**
+
+- 📫 How to reach me **mauricio_s7@outlook.com - mau.solis@gmail.com**
 
 - ⚡ Fun fact **I started loving code when I was in the First cycle of the college**
 
