@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science and doing my undergraduate project for college.**
 
-- 👯 I’m looking to collaborate on **Fullstack and Data science projects**
+- 👯 I’m looking to collaborate on **Java Fullstack projects** currently.
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-taupe-two.vercel.app/](https://new-portfolio-taupe-two.vercel.app/)
 
