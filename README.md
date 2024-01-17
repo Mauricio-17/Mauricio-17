@@ -1,8 +1,13 @@
-<img  align="right" alt="Coding" width="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<hr>
-<h1 align="center">Hi there geeks 👋, I'm Mauricio Solis</h1>
+<div style="text-align: center;">
+  <h1>Hi 👋, I'm Mauricio Solis</h1>
 
-<h3 align="center">A passionate backend developer and computer lover from Peru who keeps up to date with industry technologies.</h3>
+  <h3>A passionate computer lover from Peru who keeps up to date with industry technologies.</h3>
+
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="margin: 0;">
+
+  <!-- No need to clear float in this case -->
+</div>
+
 
 - 🌱 I’m currently learning **Data Science and doing my undergraduate project for college.**
 
