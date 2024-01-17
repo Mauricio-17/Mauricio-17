@@ -3,7 +3,7 @@
 
   <h3>A passionate computer lover from Peru who keeps up to date with industry technologies.</h3>
 
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="margin: auto;" >
 
   <!-- No need to clear float in this case -->
 </div>
