@@ -1,4 +1,4 @@
-<img  align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img  align="right" alt="Coding" width="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <hr>
 <h1 align="center">Hi there geeks 👋, I'm Mauricio Solis</h1>
 
