@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Java Fullstack projects** currently.
 
-- 👨‍💻 All of my projects are available at [https://new-portfolio-taupe-two.vercel.app/](https://new-portfolio-taupe-two.vercel.app/)
+- 👨‍💻 All of my projects are available in this account and you can also see my portfolio at [https://new-portfolio-taupe-two.vercel.app/](https://new-portfolio-taupe-two.vercel.app/)
 
 - 💬 Ask me about **Java, Spring Boot, Linux, fullstack development, Data Science and Machine learning**
 
