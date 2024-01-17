@@ -1,5 +1,7 @@
-<h1 align="center">Hi there geeks 👋, I'm Mauricio Solis</h1>
 <img  align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<hr>
+<h1 align="center">Hi there geeks 👋, I'm Mauricio Solis</h1>
+
 <h3 align="center">A passionate backend developer and computer lover from Peru who keeps up to date with industry technologies.</h3>
 
 - 🌱 I’m currently learning **Data Science and doing my undergraduate project for college.**
